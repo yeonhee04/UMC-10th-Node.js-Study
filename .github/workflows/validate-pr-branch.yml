@@ -27,6 +27,4 @@ jobs:
         env:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: |
-          mkdir -p .github/config 
-          cp node.json .github/config/pr-validation.json
           node .github/scripts/validate-pr-branch.js
