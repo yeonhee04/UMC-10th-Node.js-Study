@@ -1,10 +1,10 @@
 {
   "owners": [],
   "userToBranch": {
-    "Niz": "yeonhee04",
-    "judy": "dev-ldy03",
-    "kalt": "kmin-k",
-    "minz": "alswn-03",
-    "ggong": "sexypoo"
+    "yeonhee04": "Niz",
+    "dev-ldy03": "judy",
+    "kmin-k": "kalt",
+    "alswn-03": "minz",
+    "sexypoo": "ggong"
   }
 }
